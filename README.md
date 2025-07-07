@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tsavo-printify-mcp-badge.png)](https://mseep.ai/app/tsavo-printify-mcp)
+
 # Printify MCP Server
 
 A Model Context Protocol (MCP) server for integrating AI assistants with Printify's print-on-demand platform.
